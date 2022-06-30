@@ -8,6 +8,9 @@ This project contains a python version of models and controllers that test autom
 This is a python port of the original matlab version, which can can see for
 more information: https://github.com/pheidlauf/AeroBenchVV
 
+# Notes
+Needed to add ```export PYTHONPATH=$PYTHONPATH:~/Python/F16/AeroBenchVVPython/code/aerobench/``` to run the examples.
+
 # Citation
 
 For citation purposes, please use: "Verification Challenges in F-16 Ground Collision Avoidance and Other Automated Maneuvers", P. Heidlauf, A. Collins, M. Bolender, S. Bak, 5th International Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2018)
